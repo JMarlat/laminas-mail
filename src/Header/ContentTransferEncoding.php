@@ -21,6 +21,7 @@ class ContentTransferEncoding implements HeaderInterface
         'quoted-printable',
         'base64',
         'binary',
+        'uuencode',
         /*
          * not implemented:
          * x-token: 'X-'
